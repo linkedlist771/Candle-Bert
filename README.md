@@ -13,6 +13,12 @@
 
 ## Installation
 
+Before your install, please create a python-3.0 env. :
+
+```bash
+ conda create -n py39 python=3.9
+```
+
 ### Using pip
 
 Install Candle-Bert via pip with the following command:
